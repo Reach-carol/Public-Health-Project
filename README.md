@@ -1,3 +1,2 @@
-#PUBLIC HEALTH PROJECT
-## INTRODUCTION
-In this project, I will be anaklysis the prevalence of heart disease
+PUBLIC HEALTH PROJECT
+In this project, I will be analysing the prevalence of heart disease
